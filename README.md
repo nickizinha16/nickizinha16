@@ -2,5 +2,5 @@
 - 
 - olá meu nome é @nickizinha16
 - eu estou interessado em aprender a programar novas linguagens.
-- eu estou ressentementeaprendendo a programar a linguagem de javaScript e scratch
+- eu estou ressentemente aprendendo a programar a linguagem de javaScript e scratch
 - 
